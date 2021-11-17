@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-flow: column-reverse;
+    width: 600px;
+    align-items: center;
+    margin: 180px 350px;
+    border: 2px black dashed;
+    padding: 10px;
+  }
+  div {
+    display: flex;
+    align-items: flex-start;
+    flex-flow: column;
+    padding-top: 20px;
+  }
+  label {
+    padding-left: 5px;
+  }
+  #btn {
+    font-size: 26px;
+    border-radius: 12px;
+    border: 3px solid rgb(11, 182, 194);
+  }
+  #btn:hover {
+    background-color: rgb(11, 182, 194);
+  }
