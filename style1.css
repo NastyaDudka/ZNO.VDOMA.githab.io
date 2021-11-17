@@ -1,0 +1,17 @@
+body{
+	display: flex;
+	align-items: center;
+	flex-direction: column-reverse;
+
+	margin-left: 250px;
+	margin-right: 250px;
+	justify-content: center;
+	font-family: sans-serif;
+	font-family: Helvetica;
+    font-size: 18px;
+}
+tr{
+	display: flex;
+	justify-content:space-around;
+}
+
